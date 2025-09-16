@@ -1,0 +1,14 @@
+html, body, .container {
+    height: 100%;
+}
+
+.inner {
+    width: 100px;
+    margin: auto;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
